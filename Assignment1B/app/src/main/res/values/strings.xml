@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment1A</string>
+    <string name="temperature_conversion">Temperature Conversion</string>
+    <string name="temperature_text">Temperature</string>
+    <string name="conversion_text">Conversion</string>
+    <string name="reset_text">Reset</string>
+    <string name="f_to_c_text">F to C</string>
+    <string name="c_to_f_text">C to F</string>
+    <string name="conversion_value">NA</string>
+    <string name="calculate_text">Calculate</string>
+</resources>
